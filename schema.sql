@@ -1,7 +1,5 @@
 -- =========================================
 -- HEALTHCARE ANALYTICS DATABASE
--- PostgreSQL Schema
--- =========================================
 
 CREATE DATABASE healthcare_analytics;
 
